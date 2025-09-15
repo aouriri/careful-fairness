@@ -1,39 +1,21 @@
 ---
 layout: home
-title: Just the Class
+title: CAREful FAIRness in the Data Lifecycle
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CAREful FAIRness 
 ---
 
-# Just the Class
+# README
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+“I think the syllabus is a sort of instigation. It instigates and provokes a particular sort of behavior and encourages a particular sort of person.”
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+“The most precise thing I can say about the making of syllabi is this: a syllabus should in essence be a manifesto. It is a tattered flag that you wave. When a few sad souls have been drawn to you, then you begin the lessons.”
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+In the essay (of which the above quotes originate), [“On the Creation of Syllabi”](https://bombmagazine.org/articles/2017/08/16/on-the-creation-of-syllabi/), Jesse Ball doesn’t provide a simple definition of a syllabus or describe the general function of syllabi. Ball lays out the feelings that syllabi should evoke, if created well. In creating this syllabus, I thought back to the syllabi that I’ve encountered over the years as a curious formal and informal learner. Syllabi from classes I was taking, syllabi of courses that exist far from where I called home that I may never have the chance to take, and syllabi created by others who were just as curious and passionate about something. 
+The syllabus created by my undergrad Philosophy instructor that used film to help students gain “understanding of the major approaches to ethics.” [footnote] I wish I still had a copy, there were some amazing films on there. The [“Lemonade” Syllabus](https://www.joycerain.com/uploads/2/3/2/0/23207256/lemonade-syllabus.pdf), created by Candice Benbow and a host of others based on the themes in Beyoncé’s visual album of the same name. Dr. Alexander G. Weheliye’s [Afrofuturism (2014) syllabus](https://sites.google.com/site/alexweheliye/Syllabi/afrofuturism-2014?authuser=0) and others like it that include canonized creators/thinkers – Octavia Butler, Nalo Hopkinson, Sun Ra, Samuel Delaney, and George Clinton (as well as members under the Parliament-Funkadelic umbrella) – and also those who have inspired this philosophy.
+I could go on and on about the power or maybe the satisfaction of expanding my way of thinking via syllabi. I don’t see a syllabus as simply “an outline of the subjects in a course of study or teaching,” [footnote] but a map that helps me navigate new worlds. This syllabus isn’t grounded in specific objectives or learning outcomes or does not include the various policies for which the student must abide by (I’m a non-faculty librarian without formal instruction responsibilities), but I hope that it helps with navigating the landscape of data, mainly research data, in a way that is communal, transparent, ethical, and inclusive, or at least, expands your view of the status quo of research data and the lifecycle.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
-## Getting Started
-
-Getting started with Just the Class is simple.
-
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
