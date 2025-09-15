@@ -1,6 +1,6 @@
 ---
 name: Ateanna Uriri
-role: Instructor (Librarian)
+role: Instructor
 email: ateauriri@tamu.edu
 website: https://aouriri.github.io
 photo: kevin.jpg
