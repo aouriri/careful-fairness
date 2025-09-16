@@ -30,7 +30,7 @@ permalink: pretty
 aux_links:
   My GitHub Page:
     - 'https://aouriri.github.io'
-footer_content: "&copy; 2025 Ateanna Uriri. Released under the <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC-BY-NC</a> license"
+footer_content: 
 
 # Collections for website data
 collections:
