@@ -6,7 +6,7 @@ description: A listing of course staff.
 
 # Staff
 
-While this isn't an official course, feel free to email me about the syllabus - questions, comments, concerns, broken link.
+While this isn't an official course, feel free to email me about the syllabus - questions, comments, concerns, or if you find a broken link. I'm happy to hear from anyone who finds this syllabus useful.
 
 ## Instructor
 
