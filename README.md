@@ -10,7 +10,7 @@ seo:
 
 # README
 
-> "My positionality was as not being marginal, but perhaps being part of a complex, dynamic, gorgeous, hard-fought, hard-earned, necessary and unfolding history." - Legacy Russell, [*On Footnotes*](https://www.veralistcenter.org/events/aica-usa-distinguished-critic-lecture-legacy-russell) (video lecture)
+> "My positionality was as not being marginal, but perhaps being part of a complex, dynamic, gorgeous, hard-fought, hard-earned, necessary and unfolding history." - Legacy Russell, [*On Footnotes*](https://www.veralistcenter.org/events/aica-usa-distinguished-critic-lecture-legacy-russell) [video lecture]
 
 This site features a curriculum developed around the Principles of **C**ollective benefit, **A**uthority to control, **R**esponsibility, and **E**thics (CARE) and **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable (FAIR) and how those priniciples apply to the different stages of the research data lifecycle.
 
