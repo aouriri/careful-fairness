@@ -30,4 +30,5 @@ In this section, we’ll enter the research data lifecycle at the plan and desig
 
 
 [1]: https://doi.org/10.1038/s41597-021-00892-0 "Operationalizing CARE and FAIR Principles"
+
 [^1]: “If we accept that the very object of data science—data—are made through the web of interested relationships among researchers, communities, instruments and institutions, we can see how the practice of producing insights and tools based on these relational objects ripples through and reshapes these relationships” (Boenig-Liptsin, Tanweer, and Edmundson, 2022)
