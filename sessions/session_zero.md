@@ -5,8 +5,6 @@ permalink: sessions/session_zero
 parent: Sessions
 ---
 
-![Harvard Research Data Lifecycle](https://github.com/aouriri/careful-fairness/blob/91f3754256292dcf4eb757c8ee2e2036fcdd9a58/assets/images/harvard_datalifecycle.png)
-
 # Session 0 - Background
 
 ## Description
