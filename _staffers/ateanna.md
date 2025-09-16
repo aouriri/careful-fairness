@@ -1,8 +1,8 @@
 ---
 name: Ateanna Uriri
 role: Instructor
+pronouns: she/her
 email: ateauriri@tamu.edu
-website: https://aouriri.github.io
 photo: my-notion-face-portrait.png
 ---
 
