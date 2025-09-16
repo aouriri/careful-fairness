@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: About Me
+description: A listing of course staff.
 ---
 
 # Staff
+
+While this isn't an official course, feel free to email me about the syllabus - questions, comments, concerns, broken link.
 
 ## Instructor
 
