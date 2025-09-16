@@ -16,9 +16,6 @@ This site features a curriculum developed around the Principles of **C**ollectiv
 
 The intent is for this website to be used as a supplement to teaching and understanding the research data lifecycle. It can be used formally or informally as a resource to critically engage with data in a way that can "actively protect, nurture, and respect the environments and communities embedded within datasets" (Çay, Rodighiero & Zhang, 2025)[1].
 
-There are 7 sessions, with session zero providing a background or entry to the stages of the data lifecycle:
-
-**double check session number, create 'lectures.md', edit/reconfigure pages**
 
 
 [1]: https://nightingaledvs.com/visualizing-as-a-form-of-collective-care/ "Visualizing as a Form of Collective Care"
