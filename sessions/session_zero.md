@@ -5,6 +5,8 @@ permalink: sessions/session_zero
 parent: Sessions
 ---
 
+![Harvard Data Lifecycle](harvard_datalifecycle.png)
+
 # Session 0 - Background
 
 ## Description
