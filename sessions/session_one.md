@@ -20,12 +20,12 @@ In this section, we’ll enter the research data lifecycle at the plan and desig
 
 ## Resources
 
-- [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://doi.org/10.1038/s41597-021-00892-0) (April 2021)
-- [Centering Relationality and CARE for Stewardship of Indigenous Research Data](https://datascience.codata.org/articles/10.5334/dsj-2024-032) (May 2024)
-- [Matters of care in technoscience: Assembling neglected things](https://journals.sagepub.com/doi/10.1177/0306312710380301) (December 2010)
+- Carroll, S.R., Herczog, E., Hudson, M. et al., [Operationalizing the CARE and FAIR Principles for Indigenous data futures](https://doi.org/10.1038/s41597-021-00892-0) in *Sci Data* 8, 108 (April 2021)
+- Belarde-Lewis, M., Littletree, S., Braine, I.S., Srader, K., Guerrero, N. and Palmer, C.L.•	Belarde-Lewis, M., Littletree, S., Braine, I.S., Srader, K., Guerrero, N. and Palmer, C.L., [Centering Relationality and CARE for Stewardship of Indigenous Research Data](https://datascience.codata.org/articles/10.5334/dsj-2024-032) in *Data Science Journal*, 23: 32, pp. 1–16 (May 2024)
+- de la Bellacasa, M. P., [Matters of care in technoscience: Assembling neglected things](https://journals.sagepub.com/doi/10.1177/0306312710380301) in *Social Studies of Science, 41*(1), 85-106 (December 2010)
 - [A primer on an intersectional approach to data](https://www.data4sdgs.org/sites/default/files/file_uploads/JN_1286_IDC_KP_Primer_8pp_A4.pdf) (2018) [PDF file]
-- [Data Science Ethos Lifecycle: Interplay of Ethical Thinking and Data Science Practice](https://doi.org/10.1080/26939169.2022.2089411) (July 2022)
-- [African Data Ethics: A Discursive Framework for Black Decolonial AI](https://dl.acm.org/doi/10.1145/3715275.3732023) (June 2025)
+- Boenig-Liptsin, M., Tanweer, A., & Edmundson, A., [Data Science Ethos Lifecycle: Interplay of Ethical Thinking and Data Science Practice](https://doi.org/10.1080/26939169.2022.2089411) in *Journal of Statistics and Data Science Education*, 30(3), 228–240 (July 2022)
+- Barrett, T., Okolo, C. T., Biira, B., Sherif, E., Zhang, A., & Battle, L., [African Data Ethics: A Discursive Framework for Black Decolonial AI](https://dl.acm.org/doi/10.1145/3715275.3732023) in *Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency*, 334–349 (June 2025)
 - [A Toolkit for Centering Racial Equity Within Data Integration](https://www.aecf.org/resources/a-toolkit-for-centering-racial-equity-within-data-integration) (2020) 
 
 
