@@ -9,7 +9,7 @@ parent: Sessions
 
 ## Description
 
-**UPDATE SECTION** While we’re at the end of the cycle, the storage and management of research data are constant process throughout the research project. Storage should be considered for both data/documentation in the active stage of the project and once the project is completed. The storage solution(s) may be different at each point. Same with how the data/documentation is managed. Affected participants should be  
+While we’re at the end of the cycle, the storage and management of research data are constant process throughout the research project. Storage should be considered for both data/documentation in the active stage of the project and once the project is completed. The storage solution(s) may be different at each point. Same with how the data/documentation is managed. In this stage, we must think long term and regularly consider if the availability of the data is still of benefit years later and if adjustments must be made.
 
 ## Questions
 
