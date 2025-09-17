@@ -26,16 +26,16 @@ Once the data creation/collection stage has been completed (at least, initially)
 
 ## Resources
 
-- [Visualizing as a Form of Collective Care](https://nightingaledvs.com/visualizing-as-a-form-of-collective-care/) (June 2025)
-- [A quick guide to developing a reproducible and consistent data science workflow](https://rebeccabarter.com/blog/2019-03-07_reproducible_pipeline) (March 2019)
-- [Reproducible Data Science with Python](https://valdanchev.github.io/reproducible-data-science-python/intro.html) (2021)
+- Çay, D., Rodighiero, D., & Zhang, W., [Visualizing as a Form of Collective Care](https://nightingaledvs.com/visualizing-as-a-form-of-collective-care/) in Nightingale (June 2025)
+- Barter, R., [A quick guide to developing a reproducible and consistent data science workflow](https://rebeccabarter.com/blog/2019-03-07_reproducible_pipeline) (March 2019)
+- Danchev, V., [Reproducible Data Science with Python](https://valdanchev.github.io/reproducible-data-science-python/intro.html) (2021)
 - [Reproducibility 4 Everyone](https://www.repro4everyone.org/)
 - [Framework for Open and Reproducible Research Training (FORRT) List of Open Science Syllabi](https://forrt.org/syllabus/)
-- From *Data Feminism* [Chapter Two: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://mitpressonpubpub.mitpress.mit.edu/pub/8tjbs2x5/release/2?readingCollection=09555901) (November 2018)
-- [When We Miss Missingness](https://datasciencebydesign.org/blog/when-we-miss-missingness) (July 2022)
+- D’Ignazio, C., & Klein, L., [Chapter Two: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://mitpressonpubpub.mitpress.mit.edu/pub/8tjbs2x5/release/2?readingCollection=09555901) in *Data Feminism* (November 2018)
+- Hicks, C., [When We Miss Missingness](https://datasciencebydesign.org/blog/when-we-miss-missingness) (July 2022)
 - [The Turing Way](https://book.the-turing-way.org/) (2024)
-- [Against Cleaning](http://curatingmenus.org/articles/against-cleaning/) (July 2016)
-- [capacity through care](https://nowviskie.org/2016/capacity-through-care/) (February 2016)
+- Rawson, K. and Muñoz, T., [Against Cleaning](http://curatingmenus.org/articles/against-cleaning/) (July 2016)
+- Nowviskie, B., [capacity through care](https://nowviskie.org/2016/capacity-through-care/) (February 2016)
 - [7 Key Ethical Considerations in Research Data Analysis and Interpretation](https://insights.pluto.im/7-ethical-considerations-in-research-data-analysis/) (September 2024)
 
 
