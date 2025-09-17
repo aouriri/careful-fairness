@@ -21,10 +21,10 @@ In fulfilling requirements for publishing and reuse, researchers much choose whe
  
 ## Resources
 
-- [Data reusers' trust development](https://doi.org/10.1002/asi.23730) (June 2016)
-- [On using ethical principles of community-engaged research in translational science](https://doi.org/10.1016/j.trsl.2015.12.008) (May 2016)
+- Yoon, A., [Data reusers' trust development](https://doi.org/10.1002/asi.23730) in *Journal of the Association for Information Science and Technology*, 68: 946-956 (June 2016)
+- Khodyakov, D., Mikesell, L., Schraiber, R., Booth, M., and Bromley, E., [On using ethical principles of community-engaged research in translational science](https://doi.org/10.1016/j.trsl.2015.12.008) in *Translational Research, 171* (May 2016)
 - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
-- [What is research data “misuse”? And how can it be prevented or mitigated?](https://doi.org/10.1002/asi.24944) (July 2024)
+- Pasquetto, I. V., Cullen, Z., Thomer, A., and Wofford, M., [What is research data “misuse”? And how can it be prevented or mitigated?](https://doi.org/10.1002/asi.24944) in *Journal of the Association for Information Science and Technology*, 75(12), 1413–1429 (July 2024)
 - [Post45 Data Collective](https://data.post45.org/)
-- [When data sharing is an answer and when (often) it is not: Acknowledging data-driven, non-data, and data-decentered cultures](https://doi.org/10.1002/asi.24957) (October 2024)
-- [Earth Science Data Repositories: Implementing the CARE Principles](https://datascience.codata.org/articles/10.5334/dsj-2024-037) (July 2024) 
+- Huvila, I., & Sinnamon, L. S., [When data sharing is an answer and when (often) it is not: Acknowledging data-driven, non-data, and data-decentered cultures](https://doi.org/10.1002/asi.24957) in *Journal of the Association for Information Science and Technology*, 75(13), 1515–1530 (October 2024)
+- O’Brien, M., Duerr, R., Taitingfong, R., Martinez, A., et al., [Earth Science Data Repositories: Implementing the CARE Principles](https://datascience.codata.org/articles/10.5334/dsj-2024-037) in *Data Science Journal*, 23: 37, pp. 1–29 (July 2024) 
