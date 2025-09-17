@@ -21,14 +21,14 @@ Once research is completed, many researchers look to share out their findings �
 
 ## Resources
 
-- [A qualitative study of big data and the opioid epidemic: recommendations for data governance](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-020-00544-9) (October 2020)
-- [Extending the CARE Principles: managing data for vulnerable communities in wartime and humanitarian crises](https://doi.org/10.1038/s41597-025-04756-9) (March 2025)
-- [Narratives and Counternarratives on Data Sharing in Africa](https://arxiv.org/pdf/2103.01168) (March 2021)
-- [Open with Care](https://www.science.org/doi/pdf/10.1126/science.adu0429) (October 2024)
-- [Open with care: transparency and data sharing in civically engaged research](https://doi.org/10.1080/21565503.2025.2492026) (December 2023)
-- [When data sharing is an answer and when (often) it is not: Acknowledging data-driven, non-data, and data-decentered cultures](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24957) (October 2024)
+- Evans, E.A., Delorme, E., Cyr, K. et al., [A qualitative study of big data and the opioid epidemic: recommendations for data governance](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-020-00544-9) in *BMC Med Ethics* **21**, 101 (October 2020)
+- Suchikova, Y., Nazarovets, S., [Extending the CARE Principles: managing data for vulnerable communities in wartime and humanitarian crises](https://doi.org/10.1038/s41597-025-04756-9) in *Sci Data* **12**, 420 (March 2025)
+- Abebe, R., Aruleba, K., Birhane, A., Kingsley, S. et al., [Narratives and Counternarratives on Data Sharing in Africa](https://arxiv.org/pdf/2103.01168) in *Conference on Fairness, Accountability, and Transparency (FAccT ’21)* (March 2021)
+- Ravindran, S., [Open with Care](https://www.science.org/doi/pdf/10.1126/science.adu0429) in *Science* (October 2024)
+- Mitra, A., [Open with care: transparency and data sharing in civically engaged research](https://doi.org/10.1080/21565503.2025.2492026) in *Politics, Groups, and Identities*, 1–26 (December 2023)
+- Huvila, I., & Sinnamon, L. S., [When data sharing is an answer and when (often) it is not: Acknowledging data-driven, non-data, and data-decentered cultures](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24957) in *Journal of the Association for Information Science and Technology*, 75(13), 1515–1530 (October 2024)
 - [Exploring the Ethical Imperative for Data Sharing](https://www.ncbi.nlm.nih.gov/books/NBK321546/) (September 2015)
-- [Moral distance, AI, and the ethics of care](https://pmc.ncbi.nlm.nih.gov/articles/PMC10033285/) (March 2023) 
+- Villegas-Galaviz, C., Martin, K., [Moral distance, AI, and the ethics of care](https://pmc.ncbi.nlm.nih.gov/articles/PMC10033285/) (March 2023) 
 
 
 
