@@ -16,7 +16,8 @@ This site features a curriculum developed around the Principles of **C**ollectiv
 
 The intent is for this website to be used as a supplement to teaching and understanding the research data lifecycle. It can be used formally or informally as a resource to critically engage with data in a way that can "actively protect, nurture, and respect the environments and communities embedded within datasets" [(Çay, Rodighiero & Zhang, 2025)][1].
 
-The sessions included on the website are also available as a [PDF file](https://drive.google.com/file/d/1qLNVjOY43U7CwATHM11_gszZGeHq5w1W/view?usp=sharing).
+The sessions included on the website are also available as a [PDF file](https://drive.google.com/file/d/1qLNVjOY43U7CwATHM11_gszZGeHq5w1W/view?usp=sharing).<a href="https://github.com/aouriri/careful-fairness/blob/07c328255dc724f8fde7cf56a2dd670c6d180c85/assets/images/CAREfulFAIRness.pdf" target="_blank">PDF.</a>
+
 
 All links open in the same window. Non-article and non-website links are labeled.
 
