@@ -36,7 +36,7 @@ In crafting this section and even this syllabus, I wanted to be intentional abou
 
 > "Celebrating ourselves always through and beyond our gorgeous footnotes, it is possible if we keep making this space together for one another." (Russell, 2021) 
 
-While the listed resources aren’t footnotes, I share the sentiment of gratitude as well as highlighting contributions that just as important in the larger conversation of research data management and the data lifecycle. Also, if you have the capacity, take a moment to read through the references of the resources provided and see what other insights there may be that can serve you in learning more about this topic.  
+While the listed resources aren’t footnotes, I share the sentiment of gratitude as well as highlighting contributions that are just as important in the larger conversation of research data management and the data lifecycle. Also, if you have the capacity, take a moment to read through the references of the resources provided and see what other insights there may be that can serve you in learning more about this topic.  
 
 
 Both big and small, **thank you**. 
