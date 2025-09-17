@@ -20,6 +20,6 @@ While we’re at the end of the cycle, the storage and management of research da
 ## Resources
 
 - [Chapter 5 Data Ethics](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/data-ethics.html)
-- [How to avoid the “infrastructural blues”? Studying-while-caring for data stewardship](https://doi.org/10.1111/napa.12208) (December 2023)
+- Murillo, Luis Felipe R., [How to avoid the “infrastructural blues”? Studying-while-caring for data stewardship](https://doi.org/10.1111/napa.12208) in *Annals of Anthropological Practice* 48: 36–51 (December 2023)
 - [Guideline on retention of study information and data](https://uwaterloo.ca/research/office-research-ethics/research-human-participants/pre-submission-and-training/human-research-guidelines-policies-and-resources/guideline-retention-study-information-and-data) (February 2023)
   - Check with your institution/organization/funder for specific guidelines and policies for retention and disposal of research data 
