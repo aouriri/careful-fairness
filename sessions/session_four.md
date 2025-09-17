@@ -25,13 +25,13 @@ As your research project concludes, you need to evaluate your data to ensure the
 
 ## Resources
 
-- [Build Your Archive](https://www.buildyourarchive.com/)
-- [bad tats, jesus christ, lemons; everything is archival](https://syllabusproject.org/bad-tats/)
-- [“Digital Archives in Communities – Practice and Preservation” : A Summary (or at least an attempt)](https://www.dpconline.org/blog/digital-archives-in-communities) (August 2018)
+- King, S., [Build Your Archive](https://www.buildyourarchive.com/)
+- Montalvo, N. A., [bad tats, jesus christ, lemons; everything is archival](https://syllabusproject.org/bad-tats/)
+- Webb, S., [“Digital Archives in Communities – Practice and Preservation” : A Summary (or at least an attempt)](https://www.dpconline.org/blog/digital-archives-in-communities) (August 2018)
 - [Uncovering hidden narratives in Georgia Tech's history](https://apps.library.gatech.edu/courses/hidden-narratives/#/)
 - [CURATE(D) Steps and Checklists](https://datacuration.network/outputs/workflows/) (2018)
-- [Data curation as collective action during COVID-19](https://doi.org/10.1002/asi.24406) (September 2020)
-- [Ethical Data Considerations for Engaging in Reparative Archival Practice](https://digitalcommons.fiu.edu/glworks/141/) (November 2023) 
+- Shankar K., Jeng W., Thomer A., Weber N., and Yoon A., [Data curation as collective action during COVID-19](https://doi.org/10.1002/asi.24406) in *J Assoc Inf Sci Technol.*; 72: 280–284 (September 2020)
+- Rogers, J. and Rae, R., [Ethical Data Considerations for Engaging in Reparative Archival Practice](https://digitalcommons.fiu.edu/glworks/141/) in *Works of the FIU Libraries*. 141 (November 2023) 
 
 
 
