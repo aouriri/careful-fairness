@@ -21,7 +21,7 @@ Once the data creation/collection stage has been completed (at least, initially)
 - From Rawson and Munoz (2016) “Against Cleaning”:
   - With those communities [impacted by the data] in mind and even in dialogue, we would ask, what are the concepts that structure this data?
   - And how can this data, structured in this way, point to other people’s data? 
-- What distinguishes your “messy” data from “clean” data? Has that difference been documented
+- What distinguishes your “messy” data from “clean” data? Has that difference been documented?
 - Can the “messy” data you’ve encountered be seen in a new way?
 
 ## Resources
