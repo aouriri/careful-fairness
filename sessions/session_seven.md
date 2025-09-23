@@ -13,7 +13,7 @@ While we’re at the end of the cycle, the storage and management of research da
 
 ## Questions
 
-- Who will manage the data at the conclusion of the project? Will participants or those immediately affected by the data have a say on how the data is managed after a certain point
+- Who will manage the data at the conclusion of the project? Will participants or those immediately affected by the data have a say on how the data is managed after a certain point?
 - Looking back to consent during the Create/Collect stage, will participants be made aware of the project’s retention policy?
 - If not at the beginning of the research data management planning process, have the appropriate stakeholders been contacted to discuss and determine the procedures, rights and responsibilities at this stage of the lifecycle?
 
