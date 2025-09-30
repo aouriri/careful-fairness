@@ -25,4 +25,4 @@ This section provides a background to the main themes of this syllabus: the rese
 - [Data Curation Network (DCN) CARE Primer](https://github.com/DataCurationNetwork/data-primers/tree/main/CARE%20Primer) (2023)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/) (2016)
 - [Harvard Biomedical Research Data Lifecycle](https://datamanagement.hms.harvard.edu/plan-design/biomedical-data-lifecycle)
-- Bossaller, J. and Million, A.J., [The research data life cycle, legacy data, and dilemmas in research data management](https://doi.org/10.1002/asi.24645) in Journal of the Association for Information Science and Technology, 74(6), 701–706 (March 2022) 
+- Bossaller, J. and Million, A.J., [The research data life cycle, legacy data, and dilemmas in research data management](https://doi.org/10.1002/asi.24645) in *Journal of the Association for Information Science and Technology*, 74(6), 701–706 (March 2022) 
