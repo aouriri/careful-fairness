@@ -24,8 +24,8 @@ The collection and creation stage of the lifecycle is the first moment when both
 
 ## Resources
 
- - Leon, Sharon M., [The Peril and Promise of Historians as Data Creators: Perspective, Structure, and the Problem of Representation](https://doi.org/10.25971/gt9h-5c46) in Journal of Slavery and Data Preservation 4, no. 5, 1-17 (December 2023)
- - Brown, N. M., Mendenhall, R., Black, M., Moer, M. V. et al., [In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling](https://doi.org/10.1080/19386389.2019.1652967) in Journal of Library Metadata, 19(3–4), 141–162 (August 2019)
+ - Leon, Sharon M., [The Peril and Promise of Historians as Data Creators: Perspective, Structure, and the Problem of Representation](https://doi.org/10.25971/gt9h-5c46) in *Journal of Slavery and Data Preservation* 4, no. 5, 1-17 (December 2023)
+ - Brown, N. M., Mendenhall, R., Black, M., Moer, M. V. et al., [In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling](https://doi.org/10.1080/19386389.2019.1652967) in *Journal of Library Metadata*, 19(3–4), 141–162 (August 2019)
  - [Henrietta Lacks, the Tuskegee Experiment, and Ethical Data Collection: Crash Course Statistics #12](https://www.youtube.com/watch?v=CzNANZnoiRs) (April 2019) [YouTube video]
  - Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W. et al., [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) (March 2018)
  - Pushkarna, M., Zaldivar, A., & Kjartansson, O., [Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI](https://doi.org/10.48550/arXiv.2204.01075) (April 2022) 
