@@ -14,7 +14,7 @@ seo:
 
 This site features a curriculum developed around the Principles of **C**ollective benefit, **A**uthority to control, **R**esponsibility, and **E**thics (CARE) and **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable (FAIR) and how those priniciples apply to the different stages of the research data lifecycle.
 
-The intent is for this website to be used as a supplement to teaching and understanding the research data lifecycle. It can be used formally or informally as a resource to critically engage with data in a way that can "actively protect, nurture, and respect the environments and communities embedded within datasets" [(Çay, Rodighiero & Zhang, 2025)][1].
+The intent is for this website to be used as a supplement to teaching and understanding the research data lifecycle. It can be used formally or informally as a resource to critically engage with data in a way that can "actively protect, nurture, and respect the environments and communities embedded within datasets" [(Çay, Rodighiero & Zhang, 2025)][1]. As I learn about and discover more resources, this site will be regularly updated. Comments on what was updated will be included. For the PDF version, it will be updated less frequently due to the construction of the document. Date of update will be included with each edit.
 
 The sessions included on the website are also available as a <a href="assets/images/CAREfulFAIRness.pdf" class="image fit">PDF file.</a> **NOTE:** PDF will open in browser PDF viewer.
 
