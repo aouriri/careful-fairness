@@ -19,7 +19,7 @@ The collection and creation stage of the lifecycle is the first moment when both
 - If gathering consent from a potential participant, have you thoroughly explained what kind of data will be collected, how it will be collected, and how it will be potentially used?
 - Is there an option to opt-out of certain activities or moments of participation?
 - When organizing collected data, is there documentation explaining and/or supporting the reasoning or method for organizing?
-- If conventional/traditional methods of documentation fail to adequately describe the content and context of the data, how will you go about find the best way to document or explain the gap/issue with the available documentation method(s)?
+- If conventional/traditional methods of documentation fail to adequately describe the content and context of the data, how will you go about finding the best way to document or explain the gap/issue with the available documentation method(s)?
   - Are there specific protocols or vocabularies that could be used?
 
 ## Resources
